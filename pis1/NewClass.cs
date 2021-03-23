@@ -6,5 +6,6 @@ namespace pis1
 {
     class NewClass
     {
+        //cisto jer moram
     }
 }
